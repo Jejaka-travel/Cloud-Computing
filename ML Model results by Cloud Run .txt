@@ -1,0 +1,7 @@
+Rekomendasi Hotel : https://getpredicthotel-5dwnbiqvcq-et.a.run.app/predict-hotel
+Rekomendasi Restaurant : https://getpredictrestaurant-5dwnbiqvcq-et.a.run.app/predict-restaurant
+Rekomendasi Tourism : https://getpredicttourism-5dwnbiqvcq-et.a.run.app/predict-tourism
+Rekomendasi Emergency : https://getrecommendemergency-5dwnbiqvcq-et.a.run.app/recommend-emergency
+Review Hotel : https://getreviewhotel-5dwnbiqvcq-et.a.run.app/review-hotel
+Review Restaurant : https://getreviewrestaurant-5dwnbiqvcq-et.a.run.app/review-restaurant
+Review Tourism : https://getreviewtourism-5dwnbiqvcq-et.a.run.app/review-tourism
